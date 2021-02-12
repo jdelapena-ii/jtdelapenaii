@@ -9,5 +9,4 @@ I'm a software developer who is passionate about writing code, writing articles,
 - 👯 I’m looking for a software development job. 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/jedo.ii/) [Gmail](mailto:jedodels@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+⭐️ **Lets connect!** 
