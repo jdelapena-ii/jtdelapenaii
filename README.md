@@ -7,6 +7,6 @@ I'm a web developer who is passionate about writing code, writing articles, solv
 - 🔭 I’m a React developer specializing in building jamstack websites.
 - 📚 I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m currently looking for a web development job. 
-- 📫 How to reach me: [Instagram](https://www.instagram.com/jedo.ii/) [Contact Form](https://jedodels.netlify.app/blog)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/jedo.ii/); [Contact Form](https://jedodels.netlify.app/blog)
 
 ⭐️ **Lets connect!** 
